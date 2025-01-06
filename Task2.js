@@ -1,4 +1,7 @@
 
+const firstNumber = 13 
+const secondNumber = 72
+
 const remainderDivision = (firstNumber, secondNumber) => {
     let remainderResult
     if(firstNumber > secondNumber){
@@ -10,4 +13,4 @@ const remainderDivision = (firstNumber, secondNumber) => {
 }
 
 
-console.log(remainderDivision(0, 10));
+console.log(remainderDivision(firstNumber, secondNumber));
