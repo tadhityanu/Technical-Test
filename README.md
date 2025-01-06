@@ -8,4 +8,4 @@ This is the Technical Test for Frontend Developer Role. there are 4 tasks that w
 7. Task4 -> Acronym Name
 8. the fourth task is to get the acronym of the name. in this case the input is string of name and the output is the first letter of each word name
 
-in this project, i use console log for display the function result using "node <file name.js>" command on vsCode terminal.
+in this project, i use console log for display the function result using **node file-name.js** command on vsCode terminal.
